@@ -1,4 +1,4 @@
-# Landing — Serv&tec | Rincón de Computación
+﻿# Landing — SERVITEC | Rincón de Computación
 
 Sitio de una página, estático, sin dependencias de pago. Se publica en GitHub
 Pages y se usa como sitio web en Google Business Profile, Instagram y Facebook.
