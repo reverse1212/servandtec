@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://reverse1212.github.io/servandtec/sitemap.xml
